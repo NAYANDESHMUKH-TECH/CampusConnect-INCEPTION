@@ -4,6 +4,11 @@ CampusConnect is a web app that connects students, faculty, and campus resources
 It offers announcements, event updates, and collaboration tools to enhance communication, engagement, and campus life.
 
 **Team:** INCEPTION
+## Team Members
+- [Nayan Deshmukh](https://github.com/NAYANDESHMUKH-TECH)
+- [Chinmayee Kodkani](https://github.com/chinmayee-kodkani)
+- [Brijesh Desai](https://github.com/brijeshdesai690)
+- [Ansh](https://github.com/stunnerop)
 
 ## Tech Stack
 - Frontend: React  
