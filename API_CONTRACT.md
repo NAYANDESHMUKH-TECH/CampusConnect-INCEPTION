@@ -36,6 +36,9 @@ Organized by subjects & departments
 7. Direct Messaging / Chat (Optional for v1, can be v2)
 One-to-one or group chats for students/faculty
 
+
+
+
 User Model
 Represents students, faculty, or admin users.{
   "id": "integer / UUID",
@@ -48,6 +51,9 @@ Represents students, faculty, or admin users.{
   "year_of_study": "integer",
   "created_at": "datetime"
 }
+
+
+
 
 Event Model
 Covers college fests, workshops, seminars, and other activities.
@@ -62,6 +68,9 @@ Covers college fests, workshops, seminars, and other activities.
   "image": "string (URL)",
   "created_at": "datetime"
 }
+
+
+
  Announcement Model
 For important college notices.
 {
@@ -72,6 +81,8 @@ For important college notices.
   "audience": "enum: ['all', 'students', 'faculty', 'specific_department']",
   "created_at": "datetime"
 }
+
+
 Post Model
 For discussion boards, Q&A, and sharing information.
 {
@@ -82,6 +93,8 @@ For discussion boards, Q&A, and sharing information.
   "category": "string (e.g., 'study material', 'lost & found', 'general')",
   "created_at": "datetime"
 }
+
+
 Comment Model
 Replies on posts or announcements.
 {
@@ -91,6 +104,8 @@ Replies on posts or announcements.
   "content": "string",
   "created_at": "datetime"
 }
+
+
  Resource Model 
  For sharing documents, study notes, and links.
  {
@@ -101,6 +116,11 @@ Replies on posts or announcements.
   "uploaded_by": "integer (User ID)",
   "created_at": "datetime"
 }
+
+
+
+
+
 API Endpoints
 1. User Registration
 Feature: Register a new user
