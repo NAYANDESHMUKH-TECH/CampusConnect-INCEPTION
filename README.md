@@ -9,7 +9,7 @@ It offers announcements, event updates, and collaboration tools to enhance commu
 - [Chinmayee Kodkani](https://github.com/chinmayee-kodkani)
 - [Brijesh Desai](https://github.com/brijeshdesai690)
 - [Ansh](https://github.com/stunnerop)
-
+- [Ayush nagarsekhar](https://github.com/Ayushprog12)
 ## Tech Stack
 - Frontend: React  
 - Backend: Node.js + Express  
