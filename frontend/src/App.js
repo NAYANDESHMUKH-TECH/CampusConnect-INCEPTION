@@ -12,7 +12,8 @@ import {
   Plus
 } from 'lucide-react';
 
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'https://campusconnect-inception.onrender.com';
+
 
 const App = () => {
     // State to manage UI and data
